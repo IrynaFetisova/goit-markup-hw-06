@@ -884,6 +884,7 @@ ul,p, h2 {
 
 .contract {
     display: flex;
+    justify-content: center;
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
